@@ -1,6 +1,6 @@
-package com.hnu.springcloud.dao;
+package springcloud.dao;
 
-import com.hnu.springcloud.entities.Payment;
+import springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 

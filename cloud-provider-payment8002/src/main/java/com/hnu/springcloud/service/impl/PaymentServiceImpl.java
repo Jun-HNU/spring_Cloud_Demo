@@ -1,8 +1,8 @@
-package com.hnu.springcloud.service.impl;
+package springcloud.service.impl;
 
-import com.hnu.springcloud.dao.PaymentDao;
-import com.hnu.springcloud.entities.Payment;
-import com.hnu.springcloud.service.PaymentService;
+import springcloud.dao.PaymentDao;
+import springcloud.entities.Payment;
+import springcloud.service.PaymentService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

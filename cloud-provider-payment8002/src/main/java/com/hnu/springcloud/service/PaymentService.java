@@ -1,6 +1,6 @@
-package com.hnu.springcloud.service;
+package springcloud.service;
 
-import com.hnu.springcloud.entities.Payment;
+import springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Param;
 
 /**

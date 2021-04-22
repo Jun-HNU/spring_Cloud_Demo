@@ -1,8 +1,8 @@
-package com.hnu.springcloud.controller;
+package springcloud.controller;
 
-import com.hnu.springcloud.entities.CommonResult;
-import com.hnu.springcloud.entities.Payment;
-import com.hnu.springcloud.lb.LoadBalancer;
+import springcloud.entities.CommonResult;
+import springcloud.entities.Payment;
+import springcloud.lb.LoadBalancer;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;

@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cloud-payment-service
+    name: cloud-payment-shopping.service
 
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
@@ -15,7 +15,7 @@ spring:
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml
-  type-aliases-package: com.hnu.springcloud.entities    # 所有Entity别名类所在包
+  type-aliases-package: springcloud.entities    # 所有Entity别名类所在包
 
 eureka:
   client:

@@ -1,7 +1,7 @@
 package test;
 
-import com.hnu.springcloud.entities.CommonResult;
-import com.hnu.springcloud.entities.Payment;
+import springcloud.entities.CommonResult;
+import springcloud.entities.Payment;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.client.discovery.DiscoveryClient;

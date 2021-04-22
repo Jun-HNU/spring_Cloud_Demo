@@ -8,7 +8,7 @@
     </insert>
 
 
-    <resultMap id="BaseResultMap" type="com.hnu.springcloud.entities.Payment">
+    <resultMap id="BaseResultMap" type="springcloud.entities.Payment">
         <id column="id" property="id" jdbcType="BIGINT"/>
         <id column="serial" property="serial" jdbcType="VARCHAR"/>
     </resultMap>

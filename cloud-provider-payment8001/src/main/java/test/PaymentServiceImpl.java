@@ -1,7 +1,7 @@
 package test;
 
 
-import com.hnu.springcloud.entities.Payment;
+import springcloud.entities.Payment;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
