@@ -1,0 +1,22 @@
+
+
+看到篇p27
+https://github.com/acloudyh/springCloud
+https://github.com/liusCoding/springcloud-2020
+
+
+访问swagger 界面不要用https，而应该用http
+localhost:8001/swagger-ui.html
+cloud-provider-payment:8001
+
+cloud-consumer-order:80
+localhost:80/swagger-ui.html
+
+
+http://eureka7001.com:7001/
+http://localhost:7001/
+
+http://eureka7002.com:7002/
+http://localhost:7002/
+
+谷粒商城2020
